@@ -6,7 +6,7 @@ App Activity Detector v2
 - remove package by name
 - clear data package by name
 - kill package by name
-- support system/user
+- support system/user apps
 
 
 ![Pic](https://github.com/Muhmmad-Almuhmmah/AppActivity/blob/main/imgs/1.png)
