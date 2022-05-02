@@ -7,3 +7,10 @@ App Activity Detector v2
 - clear data package by name
 - kill package by name
 - support system/user
+
+
+![Pic](https://github.com/Muhmmad-Almuhmmah/SimpleQcnParser/raw/main/pngs/1.png)
+
+![Pic](https://github.com/Muhmmad-Almuhmmah/SimpleQcnParser/raw/main/pngs/2.png)
+
+![Pic](https://github.com/Muhmmad-Almuhmmah/SimpleQcnParser/raw/main/pngs/3.png)
