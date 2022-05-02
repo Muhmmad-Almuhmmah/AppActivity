@@ -9,8 +9,8 @@ App Activity Detector v2
 - support system/user
 
 
-![Pic](https://github.com/Muhmmad-Almuhmmah/AppActivity/raw/main/pngs/1.png)
+![Pic](https://github.com/Muhmmad-Almuhmmah/AppActivity/blob/main/imgs/1.png)
 
-![Pic](https://github.com/Muhmmad-Almuhmmah/AppActivity/raw/main/pngs/2.png)
+![Pic](https://github.com/Muhmmad-Almuhmmah/AppActivity/blob/main/imgs/1.png)
 
-![Pic](https://github.com/Muhmmad-Almuhmmah/AppActivity/raw/main/pngs/3.png)
+![Pic](https://github.com/Muhmmad-Almuhmmah/AppActivity/blob/main/imgs/1.png)
